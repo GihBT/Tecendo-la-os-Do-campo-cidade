@@ -1,9 +1,3 @@
-/* ==========================================================================
-   PROJETO: O Campo e a Natureza: Uma Dupla Invencível!
-   CONCURSO AGRINHO 2026 - SUBCATEGORIA 3 (PROGRAMAÇÃO / PENSAMENTO COMPUTACIONAL)
-   ARQUIVO: style.css (Estilização Completa, Design Responsivo e Acessibilidade)
-   ========================================================================== */
-
 /* --- 1. CONFIGURAÇÕES GERAIS E RESETS --- */
 * {
     box-sizing: border-box;
@@ -342,6 +336,8 @@ button:hover {
     font-weight: bold;
     cursor: pointer;
     transition: all 0.2s ease;
+    margin-top: 15px;
+   
 }
 
 /* Efeito ao passar o mouse (PC) ou tocar (Celular) */
