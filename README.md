@@ -85,3 +85,8 @@ Faça uma imagem fotográfica de um ecossistema de floresta densa e exuberante c
 ```text
   Faça uma imagem de um infográfico agrícola fotorrealista aéreo que detalha a rotação de culturas em uma fazenda. A composição é um mosaico aéreo de quatro campos. Em destaque, no rodapé, está uma legenda clara com setas mostrando o fluxo: "Trigo -> Milho -> Soja -> Plantas de Cobertura". Acima disso, os quatro campos correspondentes são visíveis. O Campo 1, rotulado como "CAMPO 1 (Trigo)", mostra uma colheitadeira vermelha operando em trigo dourado maduro. O Campo 2, rotulado como "CAMPO 2 (Soja)", mostra um trator azul em fileiras de soja jovem. Os campos 3 e 4, rotulados correspondentemente, mostram milho verde alto e plantas de cobertura floridas. Cada campo tem uma placa de madeira rústica com texto em português. No topo, o título principal diz "ROTAÇÃO DE CULTURAS NA FAZENDA". A fazenda e os silos estão visíveis à distância, sob um céu de dia perfeito.
 ```
+---
+
+## 📄 Licença
+
+Projeto desenvolvido exclusivamente para fins educacionais e para participação no **Concurso Agrinho 2026**.
