@@ -1,9 +1,3 @@
-// ==========================================================================
-// PROJETO: O Campo e a Natureza: Uma Dupla Invencível!
-// CONCURSO AGRINHO 2026 - SUBCATEGORIA 3 (PROGRAMAÇÃO)
-// ARQUIVO: script.js (Lógica do Quiz e Manipulação Dinâmica do DOM)
-// ==========================================================================
-
 // 1. Capturando os elementos do HTML que vamos controlar (Manipulação do DOM)
 const formQuiz = document.getElementById('quiz-form');
 const areaResultado = document.getElementById('resultado');
