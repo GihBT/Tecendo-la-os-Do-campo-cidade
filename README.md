@@ -51,14 +51,37 @@ A identidade visual e as imagens que ilustram este projeto foram geradas atravé
 
 **Comandos Utilizados (Prompts):**
 
-* **Inicio:** "Faça uma imagem onde uma muda central brota de solo fértil e escuro. Ao redor, ícones vetoriais de natureza (árvore, folhas) e tecnologia (diagrama hexagonal, nuvem, riacho) se integram harmoniosamente. O fundo é um campo agrícola fotorrealista e suave, sob um céu claro com um arco-íris. Na base, o texto grande e verde "AGRO SUSTENTÁVEL", e abaixo, em marrom, "Natureza em Harmonia com a Tecnologia"
+* **Inicio:**
 
-* **Vínculo:** "Faça uma imagem onde uma paisagem de três partes é unida por um nexo central de luz. A seção esquerda é o "CAMPO", com fazendas e animais sob uma luz de fim de tarde. A seção central é a "CIDADE", com sua arquitetura moderna de concreto e vidro. A seção direita é a "NATUREZA", com matas e corpos d'água sob um céu mais fresco. Uma intrincada rede geométrica de luz dourada e tripartida origina-se do centro e conecta todas as áreas. O texto em português "CAMPO", "CIDADE" e "NATUREZA" está integrado em cada área, e um pequeno ícone de brilho está no canto inferior direito."
+```text
+ Faça uma imagem onde uma muda central brota de solo fértil e escuro. Ao redor, ícones vetoriais de natureza (árvore, folhas) e tecnologia (diagrama hexagonal, nuvem, riacho) se integram harmoniosamente. O fundo é um campo agrícola fotorrealista e suave, sob um céu claro com um arco-íris. Na base, o texto grande e verde "AGRO SUSTENTÁVEL", e abaixo, em marrom, "Natureza em Harmonia com a Tecnologia
+```
 
-* **Mata e rio:** "Faça uma imagem com um ponto de vista elevado, olhando para baixo em uma vasta floresta tropical onde um rio verde escuro corta a paisagem. Em primeiro plano (mais próximo), uma pequena canoa com duas pessoas e equipamentos. Mais acima no rio (no meio), uma segunda canoa com duas pessoas. Colinas densamente florestadas emolduram o rio de ambos os lados. Inclua detalhes específicos como palmeiras variadas e a grande bromélia à direita. O céu é azul com nuvens distantes."
+* **Vínculo:**
 
-* **Irrigação automática:** "Faça uma imagem de um campo agrícola com fileiras de plantas jovens em solo avermelhado sendo irrigadas por um sistema de gotejamento visível. À esquerda, em primeiro plano, uma unidade de controle de irrigação inteligente montada em um poste de madeira, com o texto "SISTEMA DE IRRIGAÇÃO INTELIGENTE" e "ECONOMIA DE ÁGUA: ATIVA". À direita, um agricultor sorridente olhando para a tela de um smartphone que exibe "CONTROLES DE IRRIGAÇÃO" e "MONITORAR CONSUMO". O fundo mostra colinas suaves, um tanque de água e painéis solares sob um pôr do sol dourado e quente."
+```text
+  Faça uma imagem onde uma paisagem de três partes é unida por um nexo central de luz. A seção esquerda é o "CAMPO", com fazendas e animais sob uma luz de fim de tarde. A seção central é a "CIDADE", com sua arquitetura moderna de concreto e vidro. A seção direita é a "NATUREZA", com matas e corpos d'água sob um céu mais fresco. Uma intrincada rede geométrica de luz dourada e tripartida origina-se do centro e conecta todas as áreas. O texto em português "CAMPO", "CIDADE" e "NATUREZA" está integrado em cada área, e um pequeno ícone de brilho está no canto inferior direito.
+```
 
-* **Floresta:** "Faça uma imagem fotográfica de um ecossistema de floresta densa e exuberante com interações de vida selvagem. À esquerda, um esquilo marrom-avermelhado empoleirado em um galho, segurando uma pequena noz e comendo. No centro, um ramo vibrante com flores brancas e amarelas e pequenos frutos (bagas) vermelhos e verdes, com duas abelhas polinizando ativamente. À direita, um pássaro de médio porte (semelhante a um sabiá-laranjeira) pousado em um galho. O fundo é uma floresta densa e verde desfocada, com luz solar filtrada. Estilo de fotografia de natureza realista de alta resolução, com um pequeno ícone de brilho no canto inferior direito."
+* **Mata e rio:**
+
+```text
+  Faça uma imagem com um ponto de vista elevado, olhando para baixo em uma vasta floresta tropical onde um rio verde escuro corta a paisagem. Em primeiro plano (mais próximo), uma pequena canoa com duas pessoas e equipamentos. Mais acima no rio (no meio), uma segunda canoa com duas pessoas. Colinas densamente florestadas emolduram o rio de ambos os lados. Inclua detalhes específicos como palmeiras variadas e a grande bromélia à direita. O céu é azul com nuvens distantes.
+```
+* **Irrigação automática:**
+
+```text
+  Faça uma imagem de um campo agrícola com fileiras de plantas jovens em solo avermelhado sendo irrigadas por um sistema de gotejamento visível. À esquerda, em primeiro plano, uma unidade de controle de irrigação inteligente montada em um poste de madeira, com o texto "SISTEMA DE IRRIGAÇÃO INTELIGENTE" e "ECONOMIA DE ÁGUA: ATIVA". À direita, um agricultor sorridente olhando para a tela de um smartphone que exibe "CONTROLES DE IRRIGAÇÃO" e "MONITORAR CONSUMO". O fundo mostra colinas suaves, um tanque de água e painéis solares sob um pôr do sol dourado e quente.
+```
+
+* **Floresta:**
+
+```text
+Faça uma imagem fotográfica de um ecossistema de floresta densa e exuberante com interações de vida selvagem. À esquerda, um esquilo marrom-avermelhado empoleirado em um galho, segurando uma pequena noz e comendo. No centro, um ramo vibrante com flores brancas e amarelas e pequenos frutos (bagas) vermelhos e verdes, com duas abelhas polinizando ativamente. À direita, um pássaro de médio porte (semelhante a um sabiá-laranjeira) pousado em um galho. O fundo é uma floresta densa e verde desfocada, com luz solar filtrada. Estilo de fotografia de natureza realista de alta resolução, com um pequeno ícone de brilho no canto inferior direito.
+```
   
-* **Rotação:** "Faça uma imagem de um infográfico agrícola fotorrealista aéreo que detalha a rotação de culturas em uma fazenda. A composição é um mosaico aéreo de quatro campos. Em destaque, no rodapé, está uma legenda clara com setas mostrando o fluxo: "Trigo -> Milho -> Soja -> Plantas de Cobertura". Acima disso, os quatro campos correspondentes são visíveis. O Campo 1, rotulado como "CAMPO 1 (Trigo)", mostra uma colheitadeira vermelha operando em trigo dourado maduro. O Campo 2, rotulado como "CAMPO 2 (Soja)", mostra um trator azul em fileiras de soja jovem. Os campos 3 e 4, rotulados correspondentemente, mostram milho verde alto e plantas de cobertura floridas. Cada campo tem uma placa de madeira rústica com texto em português. No topo, o título principal diz "ROTAÇÃO DE CULTURAS NA FAZENDA". A fazenda e os silos estão visíveis à distância, sob um céu de dia perfeito."
+* **Rotação:**
+
+```text
+  Faça uma imagem de um infográfico agrícola fotorrealista aéreo que detalha a rotação de culturas em uma fazenda. A composição é um mosaico aéreo de quatro campos. Em destaque, no rodapé, está uma legenda clara com setas mostrando o fluxo: "Trigo -> Milho -> Soja -> Plantas de Cobertura". Acima disso, os quatro campos correspondentes são visíveis. O Campo 1, rotulado como "CAMPO 1 (Trigo)", mostra uma colheitadeira vermelha operando em trigo dourado maduro. O Campo 2, rotulado como "CAMPO 2 (Soja)", mostra um trator azul em fileiras de soja jovem. Os campos 3 e 4, rotulados correspondentemente, mostram milho verde alto e plantas de cobertura floridas. Cada campo tem uma placa de madeira rústica com texto em português. No topo, o título principal diz "ROTAÇÃO DE CULTURAS NA FAZENDA". A fazenda e os silos estão visíveis à distância, sob um céu de dia perfeito.
+```
