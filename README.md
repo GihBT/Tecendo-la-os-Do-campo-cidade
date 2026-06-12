@@ -42,7 +42,7 @@ Também é possível acessar o projeto publicado pelo GitHub Pages ou Vercel, po
 ## 👩‍💻 Autoria e Créditos
 
 * **Autora:** Giovana Letícia da Silva Bastos
-* **Professor Responsável:** [Inserir o Nome do Professor Aqui]
+* **Professor Responsável:** Tiago Soares de Oliveira 
 * **Escola:** Colégio Estadual Marumbi
 * **Município:** Marumbi
 
