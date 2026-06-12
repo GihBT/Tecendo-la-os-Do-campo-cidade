@@ -14,7 +14,7 @@ Criar uma plataforma web educativa que conscientize o público sobre a importân
 ### Objetivos Específicos
 * **Educação Ambiental:** Explicar conceitos fundamentais do agro sustentável, como a importância das matas ciliares, o papel das abelhas na polinização, o uso de irrigação inteligente e a técnica de rotação de culturas.
 * **Pensamento Computacional:** Aplicar lógica de programação através da criação de um quiz interativo que avalia o aprendizado do usuário em tempo real.
-* **Acessibilidade e Usabilidade:** Desenvolver uma interface responsiva (que funciona bem tanto em computadores quanto em celulares) com foco em uma leitura confortável e navegação intuitiva.
+* **Acessibilidade e Usabilidade:** Desenvolver uma interface responsiva (que funciona bem tanto em computadores quanto em celulares) com foco em uma leitura confortável e navegação instrutiva.
 
 ---
 
@@ -23,7 +23,7 @@ Criar uma plataforma web educativa que conscientize o público sobre a importân
 O projeto foi construído utilizando tecnologias padrão de desenvolvimento web (Frontend), garantindo leveza e compatibilidade com qualquer navegador moderno.
 
 * **HTML5 (`index.html`):** Responsável pela semântica e estruturação do conteúdo informativo e do formulário do quiz.
-* **CSS3 (`style.css`):** Utilizado para a estilização completa da página. Conta com uma paleta de cores "Agro-Sustentável", design responsivo (Media Queries), efeitos de transição modernos e organização visual em *cards*.
+* **CSS3 (`style.css`):** Utilizado para a estilização completa da página. Conta com uma paleta de cores "Agro-Sustentável", design responsivo (Média Queries), efeitos de transição modernos e organização visual em *cards*.
 * **JavaScript (`script.js`):** Responsável pela lógica e interatividade do sistema. Utiliza manipulação do DOM e estruturas condicionais para calcular a pontuação do quiz, validar se todas as respostas foram preenchidas e exibir um feedback visual dinâmico com base no desempenho do usuário.
 
 ---
